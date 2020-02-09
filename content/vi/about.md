@@ -19,10 +19,10 @@ Bạn có thể đọc đánh giá năm gần đây nhất của chúng tôi b�
 Các nguyên tắc chính phía sau Let's Encrypt là:
 
 * <strong>Miễn phí:</strong> Bất cứ ai sở hữu một tên miền có thể dùng Let's Encrypt để có được một chứng chỉ tin cậy với chi phí bằng không.
-* <strong>Automatic:</strong> Software running on a web server can interact with Let's Encrypt to painlessly obtain a certificate, securely configure it for use, and automatically take care of renewal.
-* <strong>Secure:</strong> Let's Encrypt will serve as a platform for advancing TLS security best practices, both on the CA side and by helping site operators properly secure their servers.
-* <strong>Transparent:</strong> All certificates issued or revoked will be publicly recorded and available for anyone to inspect.
-* <strong>Open:</strong> The automatic issuance and renewal protocol will be published as an open standard that others can adopt.
-* <strong>Cooperative:</strong> Much like the underlying Internet protocols themselves, Let's Encrypt is a joint effort to benefit the community, beyond the control of any one organization.
+* <strong>Tự động:</strong> Phần mềm chạy trên máy chủ web có thể tương tác với Let's Encrypt để lấy chứng chỉ một cách dễ dàng, cấu hình an toàn để sử dụng và tự động gia hạn.
+* <strong>An toàn:</strong> Let's Encrypt sẽ phục vụ như một nền tảng để thúc đẩy các thực hành tốt nhất về bảo mật TLS, cả về phía CA và bằng cách giúp những người vận hành trang web bảo mật đúng cách các máy chủ của họ.
+* <strong>Trong suốt:</strong> Tất cả các chứng chỉ được cấp hoặc thu hồi sẽ được ghi lại công khai và có sẵn cho bất kỳ ai  muốn kiểm tra.
+* <strong>Mở:</strong> Giao thức phát hành và gia hạn tự động sẽ được công bố như một tiêu chuẩn mở mà những người khác có thể áp dụng.
+* <strong>Hợp tác:</strong> Giống như các giao thức Internet cơ bản, Let's Encrypt là một nỗ lực chung nhằm mang lại lợi ích cho cộng đồng, vượt ra ngoài tầm kiểm soát của bất kỳ một tổ chức nào.
 
-We have a page with more detailed information about {{<link "how the Let's Encrypt CA works" "/how-it-works" >}}.
+Chúng tôi có một trang với thông tin chi tiết hơn về việc {{<link "Let's Encrypt CA hoạt động như thê nào" "/how-it-works" >}}.
