@@ -8,7 +8,7 @@ lastmod: 2020-02-07
 
 {{< lastmod >}}
 
-# Root Certificates
+# Các Chứng Nhận Gốc
 
 Our roots are kept safely offline. We issue end-entity certificates to subscribers from the intermediates in the next section.
 
