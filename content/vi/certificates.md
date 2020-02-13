@@ -96,8 +96,8 @@ issued Let's Encrypt certificates via these links:
 * [Issued by Let's Encrypt Authority X1](https://crt.sh/?Identity=%25&iCAID=7395)
 * [Issued by Let's Encrypt Authority X3](https://crt.sh/?Identity=%25&iCAID=16418)
 
-# More Info
+# Thông Tin Thêm 
 
-The private keys for the ISRG root CA and the Let’s Encrypt intermediate CAs are stored on hardware security modules (HSMs), which provide a high degree of protection against the keys being stolen.
+Các khoá riêng tư cho chứng nhận gốc ISRG và các chứng nhận trung gian Let's Encrypt được lưu trữ trên các mô đun bảo mật phần cứng (Hardware Security Modules - HSMs) cung cấp mức độ bảo vệ cao chống lại việc các khoá bị đánh cắp.
 
-All ISRG keys are currently RSA keys. We are {{<link "planning to generate ECDSA keys" "/upcoming-features" >}}.
+Tất cả các khoá ISRG hiện là các khoá RSA. Chúng tôi đang {{<link "lên kế hoạch để tạo khoá ECDSA" "/vi/upcoming-features" >}}.
