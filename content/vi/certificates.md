@@ -88,13 +88,11 @@ included here for informational purposes only.
 
 # Certificate Transparency
 
-We are dedicated to transparency in our operations and in the certificates we
-issue. We submit all certificates to [Certificate Transparency
-logs](https://www.certificate-transparency.org/) as we issue them. You can view all
-issued Let's Encrypt certificates via these links:
+Chúng tôi cam kết minh bạch trong hoạt động của chúng tôi và trong các chứng nhận mà chúng tôi cấp. Chúng tôi gửi tất cả các chứng nhận tới [Certificate Transparency
+logs](https://www.certificate-transparency.org/) khi chúng tôi cấp chúng. Bạn có thể xem tất cả chứng nhận Let's Encrypt đã được cấp thông qua các liên kết sau:
 
-* [Issued by Let's Encrypt Authority X1](https://crt.sh/?Identity=%25&iCAID=7395)
-* [Issued by Let's Encrypt Authority X3](https://crt.sh/?Identity=%25&iCAID=16418)
+* [Được cấp bởi Let's Encrypt Authority X1](https://crt.sh/?Identity=%25&iCAID=7395)
+* [Được cấp bởi Let's Encrypt Authority X3](https://crt.sh/?Identity=%25&iCAID=16418)
 
 # Thông Tin Thêm 
 
