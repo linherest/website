@@ -10,7 +10,7 @@ lastmod: 2020-02-07
 
 # Các Chứng Nhận Gốc
 
-Our roots are kept safely offline. We issue end-entity certificates to subscribers from the intermediates in the next section.
+Chứng nhận gốc của chúng tôi được giữ an toàn và tách biệt khỏi mạng Internet. We issue end-entity certificates to subscribers from the intermediates in the next section.
 
 * Active
   * [ISRG Root X1 (self-signed)](/certs/isrgrootx1.pem.txt)
@@ -24,7 +24,7 @@ We've set up websites to test certificates chaining to our roots.
 * ISRG Root X1 Expired Certificate
   * [https://expired-isrgrootx1.letsencrypt.org/](https://expired-isrgrootx1.letsencrypt.org/)
 
-# Intermediate Certificates
+# Chứng Nhận Trung Cấp
 
 Under normal circumstances, certificates issued by Let’s Encrypt will come from “Let’s Encrypt Authority X3”. The other intermediate, “Let’s Encrypt Authority X4”, is reserved for disaster recovery and will only be used should we lose the ability to issue with “Let’s Encrypt Authority X3”. We do not use the X1 and X2 intermediates any more.
 
@@ -86,7 +86,7 @@ included here for informational purposes only.
 
 * [ISRG Root OCSP X1 (Signed by ISRG Root X1)](/certs/isrg-root-ocsp-x1.pem.txt)
 
-# Certificate Transparency
+# Tính Minh Bạch Của Chứng Nhận
 
 Chúng tôi cam kết minh bạch trong hoạt động của chúng tôi và trong các chứng nhận mà chúng tôi cấp. Chúng tôi gửi tất cả các chứng nhận tới [Certificate Transparency
 logs](https://www.certificate-transparency.org/) khi chúng tôi cấp chúng. Bạn có thể xem tất cả chứng nhận Let's Encrypt đã được cấp thông qua các liên kết sau:
